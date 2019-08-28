@@ -23,3 +23,5 @@ Chatroom Using Cloud Services
   * Knowledge of how to use a specific set of services and how different services fit together
   * Auth systems
   * Database connection and updates
+
+*Source*: https://medium.com/better-programming/10-coding-prompts-for-your-portfolio-4a5266d86ede
